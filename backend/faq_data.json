@@ -1,0 +1,13 @@
+{
+    "faqs": [
+      {
+        "question": "What IT consulting services do you offer?",
+        "answer": "We provide cloud migration, cybersecurity audits, DevOps implementation, and AI solutions."
+      },
+      {
+        "question": "How can I get started?",
+        "answer": "You can schedule a free consultation by providing your email, and our team will reach out."
+      }
+    ]
+  }
+  
